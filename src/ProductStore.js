@@ -8,7 +8,7 @@ const productsArray = [
     title: "Yougoslick Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 4.99,
-    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -16,7 +16,7 @@ const productsArray = [
     title: "Sunglasses Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 9.99,
-    img: "../src/assets/bestsellertwo.jpg",
+    img: "../assets/bestsellertwo.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -24,7 +24,7 @@ const productsArray = [
     title: "Blocker Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 49.99,
-    img: "../src/assets/heroThree.jpg",
+    img: "../assets/heroThree.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -32,7 +32,7 @@ const productsArray = [
     title: "Tripping Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 71.9,
-    img: "../src/assets/bestsellerthree.jpg",
+    img: "../assets/bestsellerthree.jpg",
     rating: "⭐⭐⭐⭐",
   },
   {
@@ -40,7 +40,7 @@ const productsArray = [
     title: "Prama Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 149.99,
-    img: "../src/assets/bestsellerfour.jpg",
+    img: "../assets/bestsellerfour.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -48,7 +48,7 @@ const productsArray = [
     title: "Brimski Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 40.99,
-    img: "../src/assets/arno-senoner-ooj5VfXq5o8-unsplash.jpg",
+    img: "../assets/arno-senoner-ooj5VfXq5o8-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -56,7 +56,7 @@ const productsArray = [
     title: "Vinto Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 39.99,
-    img: "../src/assets/creative-headline-APNnyM36puU-unsplash.jpg",
+    img: "../assets/creative-headline-APNnyM36puU-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -64,7 +64,7 @@ const productsArray = [
     title: "Zexe Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 569.99,
-    img: "../src/assets/jonathan-borba-k3n8TN5WwJk-unsplash.jpg",
+    img: "../assets/jonathan-borba-k3n8TN5WwJk-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
 ];
