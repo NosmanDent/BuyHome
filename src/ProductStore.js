@@ -8,7 +8,7 @@ const productsArray = [
     title: "Yougoslick Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 4.99,
-    img: "../assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -16,7 +16,7 @@ const productsArray = [
     title: "Sunglasses Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 9.99,
-    img: "../assets/bestsellertwo.jpg",
+    img: "./assets/bestsellertwo.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
