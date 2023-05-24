@@ -17,7 +17,7 @@ const RestofPage = () => {
       <Beauty />
       <Brand />
       <div className="font-bold  md:text-4xl sm:text-3xl text-2xl text-center text-stone-600 mb-6 font-serif">
-        Collection
+        Collections
       </div>
       <div className="flex flex-row items-center justify-center gap-2 overflow-x-scroll scroll-smooth mb-5 mx-10">
         <Card slides={slides} />

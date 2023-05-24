@@ -8,7 +8,7 @@ const productsArray = [
     title: "Yougoslick Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 4.99,
-    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -16,7 +16,7 @@ const productsArray = [
     title: "Sunglasses Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 9.99,
-    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -24,7 +24,7 @@ const productsArray = [
     title: "Blocker Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 49.99,
-    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -32,7 +32,7 @@ const productsArray = [
     title: "Tripping Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 71.9,
-    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐",
   },
   {
@@ -40,7 +40,7 @@ const productsArray = [
     title: "Prama Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 149.99,
-    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -48,7 +48,7 @@ const productsArray = [
     title: "Brimski Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 40.99,
-    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -56,7 +56,7 @@ const productsArray = [
     title: "Vinto Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 39.99,
-    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -64,7 +64,7 @@ const productsArray = [
     title: "Zexe Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 569.99,
-    img: "./assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
 ];

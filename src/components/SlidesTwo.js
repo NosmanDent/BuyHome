@@ -12,7 +12,7 @@ const slidesTwo = [
     title: "Body Growth",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 19.99,
-    img: "../../src/assets/1mg-5.jpg",
+    img: "../src/assets/1mg-5.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -20,7 +20,7 @@ const slidesTwo = [
     title: "Hair Flair",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 429.99,
-    img: "../../src/assets/b4.jpg",
+    img: "../src/assets/b4.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -28,7 +28,7 @@ const slidesTwo = [
     title: "Prin Watch",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 71.9,
-    img: "../../src/assets/mn8.jpg",
+    img: "../src/assets/mn8.jpg",
     rating: "⭐⭐⭐⭐",
   },
   {
@@ -36,7 +36,7 @@ const slidesTwo = [
     title: "Avila Pant",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 89.99,
-    img: "../../src/assets/women5.jpg",
+    img: "../src/assets/women5.jpg",
     rating: "⭐⭐⭐⭐⭐",
   },
 ];
