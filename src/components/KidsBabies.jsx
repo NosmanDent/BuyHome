@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import shoeOne from "../assets/shoeOne.jpg";
-import shoeTwo from "../assets/shoeTwo.jpg";
+import shoeOne from "../assets/b2.jpg";
+import shoeTwo from "../assets/b9.jpg";
 import Swiper from "./Swiper";
 import ProductCardKids from "../components/ProductCardKids";
 import { productsArrayKids } from "../ProductStoreKids";

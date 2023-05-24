@@ -1,8 +1,8 @@
 import React, { useRef } from "react";
 import { TbMathGreater } from "react-icons/tb";
 import { Link } from "react-router-dom";
-import shoeOne from "../assets/shoeOne.jpg";
-import shoeTwo from "../assets/shoeTwo.jpg";
+import shoeOne from "../assets/arno-senoner-Vn5VBVCP1EA-unsplash.jpg";
+import shoeTwo from "../assets/b3.jpg";
 import Swiper from "./Swiper";
 import ProductCardWomen from "../components/ProductCardWomen";
 import { productsArrayWomen } from "../ProductStoreWomen";
