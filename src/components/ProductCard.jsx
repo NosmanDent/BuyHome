@@ -61,7 +61,7 @@ const ProductCard = (props) => {
           initial={{
             opacity: 0,
           }}
-          whileInView={{
+          animate={{
             opacity: 1,
           }}
           transition={{

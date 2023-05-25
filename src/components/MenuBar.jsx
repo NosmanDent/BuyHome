@@ -8,15 +8,13 @@ const MenuBar = () => {
       <motion.div
         className="md:flex hidden flex-1 flex-wrap items-center justify-center xl:gap-6 gap-4 cursor-pointer whitespace-nowrap"
         initial={{
-          y: -150,
           opacity: 0,
         }}
         whileInView={{
-          y: 0,
           opacity: 1,
         }}
         transition={{
-          duration: 2,
+          duration: 5,
         }}
       >
         <NavLink
