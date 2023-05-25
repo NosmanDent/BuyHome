@@ -642,7 +642,6 @@ function Menu({ handleClick }) {
         ) : (
           <NavLink
             to="/login"
-            onClick={() => setToggleNav(false)}
             className="lg:bg-white text-black  font-semibold rounded-lg lg:py-2 lg:px-5   text-bold lg:text-xs text-lg "
           >
             Registration / Login
