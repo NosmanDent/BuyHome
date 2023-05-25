@@ -4,7 +4,7 @@ const slides = [
     title: "Yougoslick Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 4.99,
-    img: "../src/assets/arno-senoner-HFE2RyC76tw-unsplash.jpg",
+    img: "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=398&q=80",
     button: "SHOP NOW",
   },
   {
@@ -12,7 +12,7 @@ const slides = [
     title: "Sunglasses Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 9.99,
-    img: "../src/assets/bestsellertwo.jpg",
+    img: "https://images.unsplash.com/photo-1559742850-228d9ec4d2db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     button: "SHOP NOW",
   },
   {
@@ -20,7 +20,7 @@ const slides = [
     title: "Blocker Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 49.99,
-    img: "../src/assets/heroThree.jpg",
+    img: "https://images.unsplash.com/photo-1602198165220-31cf26b7434f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     button: "SHOP NOW",
   },
   {
@@ -28,7 +28,7 @@ const slides = [
     title: "Tripping Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 71.9,
-    img: "../src/assets/bestsellerthree.jpg",
+    img: "https://images.unsplash.com/photo-1600834493561-9132e1819f51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
     button: "SHOP NOW",
   },
   {
@@ -36,7 +36,7 @@ const slides = [
     title: "Prama Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 149.99,
-    img: "../src/assets/bestsellerfour.jpg",
+    img: "https://images.unsplash.com/photo-1684771002255-c15b5214f465?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=434&q=80",
     button: "SHOP NOW",
   },
 ];

@@ -9,7 +9,7 @@ const productsArrayWomen = [
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     status: "new",
     price: 4.99,
-    img: "../src/assets/women15.jpg",
+    img: "https://images.unsplash.com/photo-1608915812295-417351ccf39b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -17,7 +17,7 @@ const productsArrayWomen = [
     title: "Sunglasses Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 9.99,
-    img: "../src/assets/women1.jpg",
+    img: "https://images.unsplash.com/photo-1556228841-fb0779df1db1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -26,7 +26,7 @@ const productsArrayWomen = [
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     status: "new",
     price: 49.99,
-    img: "../src/assets/women2.jpg",
+    img: "https://images.unsplash.com/photo-1579450887429-b86059844ac6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d29tZW4lMjBuaWdodCUyMGRyZXNzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -34,7 +34,7 @@ const productsArrayWomen = [
     title: "Tripping Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 71.9,
-    img: "../src/assets/women3.jpg",
+    img: "https://images.unsplash.com/photo-1518102885802-e869dcb9da8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d29tZW4lMjBuaWdodCUyMGRyZXNzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
     rating: "⭐⭐⭐⭐",
   },
   {

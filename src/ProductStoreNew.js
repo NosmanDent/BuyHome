@@ -8,7 +8,7 @@ const productsArrayNew = [
     title: "gSlick Ba",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 89.99,
-    img: "../src/assets/new1.jpg",
+    img: "https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -16,7 +16,7 @@ const productsArrayNew = [
     title: "sUNBLCKA Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 19.99,
-    img: "../src/assets/new2.jpg",
+    img: "https://images.unsplash.com/photo-1554519934-e32b1629d9ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -24,7 +24,7 @@ const productsArrayNew = [
     title: "bMolli Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 49.99,
-    img: "../src/assets/new3.jpg",
+    img: "https://images.unsplash.com/photo-1616750819801-4311f2c43890?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -32,15 +32,15 @@ const productsArrayNew = [
     title: "Viking Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 71.9,
-    img: "../src/assets/new4.jpg",
+    img: "https://images.unsplash.com/photo-1533616688419-b7a585564566?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     rating: "⭐⭐⭐⭐",
   },
   {
     id: 5,
-    title: "maPra Bag",
+    title: "maPra Chair",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
-    price: 149.99,
-    img: "../src/assets/new5.jpg",
+    price: 3149.99,
+    img: "https://images.unsplash.com/photo-1634822929331-ee4dc2c97fc4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -48,7 +48,7 @@ const productsArrayNew = [
     title: "Bri",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 40.99,
-    img: "../src/assets/new6.jpg",
+    img: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -56,7 +56,7 @@ const productsArrayNew = [
     title: "o Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 329.99,
-    img: "../src/assets/new7.jpg",
+    img: "https://images.unsplash.com/photo-1582896911329-35927907b8f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=482&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
@@ -64,7 +64,7 @@ const productsArrayNew = [
     title: "Pxe Bag",
     subTitle: "Lorem ipsym oplwe uwer seh seueo os",
     price: 569.99,
-    img: "../src/assets/new8.jpg",
+    img: "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=398&q=80",
     rating: "⭐⭐⭐⭐⭐",
   },
 ];
