@@ -515,16 +515,11 @@ const Navbar = () => {
                     ABOUT US
                   </NavLink>
                   <div className="md:hidden flex">
-                    <Menu handleClick={handleClick} />
+                    <Menu
+                      handleClick={handleClick}
+                      onClick={() => setToggleNav(false)}
+                    />
                   </div>
-
-                  <motion.input
-                    type="search"
-                    name=""
-                    id=""
-                    className="xl:w-[250px] lg:w-[200px] flex md:hidden  h-10 px-3 border rounded-tr-full rounded-br-full border-black focus:outline-none capitalize"
-                    placeholder="Search"
-                  />
                 </div>
               </motion.div>
             </motion.div>
@@ -639,7 +634,7 @@ function Menu({ handleClick }) {
       >
         {user ? (
           <button
-            className="lg:bg-white lg:text-black bg-red-700 text-white font-semibold rounded-lg lg:py-2 lg:px-5 py-1 px-4 text-bold text-xs "
+            className="lg:bg-white text-black  font-semibold rounded-lg lg:py-2 lg:px-5  text-bold lg:text-xs text-lg "
             onClick={handleSignOut}
           >
             Sign Out
@@ -647,7 +642,8 @@ function Menu({ handleClick }) {
         ) : (
           <NavLink
             to="/login"
-            className="lg:bg-white lg:text-black bg-blue-700 text-white font-semibold rounded-lg lg:py-2 lg:px-5 py-1 px-4  text-bold text-xs "
+            onClick={() => setToggleNav(false)}
+            className="lg:bg-white text-black  font-semibold rounded-lg lg:py-2 lg:px-5   text-bold lg:text-xs text-lg "
           >
             Registration / Login
           </NavLink>

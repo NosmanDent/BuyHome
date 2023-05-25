@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import { TbMathGreater } from "react-icons/tb";
 import { Link } from "react-router-dom";
 import menOne from "../assets/articlefive.jpg";
-import menTwo from "../assets/b3.jpg";
+import menTwo from "../assets/articlefour.jpg";
 import ProductCardMen from "../components/ProductCardMen";
 import { productsArrayMen } from "../ProductStoreMen";
 import Swiper from "./Swiper";
@@ -32,7 +32,7 @@ const Men = () => {
                 <h1 className="text-sm text-stone-500 font-semibolbold ">
                   MISTER GIORDANI EAU DE TOILETTE
                 </h1>
-                <h1 className="text-bold text-3xl text-stone-800">
+                <h1 className="text-bold whitespace-nowrap text-2xl md:text-3xl text-stone-800">
                   Bold and charismatic
                 </h1>
 
@@ -47,7 +47,9 @@ const Men = () => {
                 <h1 className="text-sm text-stone-500 font-semibolbold ">
                   MISTER GIORDANI EAU DE TOILETTE
                 </h1>
-                <h1 className="text-bold text-3xl text-stone-800">New</h1>
+                <h1 className="text-bold text-3xlwhitespace-nowrap text-2xl md:text-3xl text-stone-800">
+                  New
+                </h1>
                 <h1 className="text-3xl font-bold text-stone-800 border-b-4 border-stone-700 pb-2 cursor-pointer">
                   Shop Now
                 </h1>
