@@ -514,7 +514,7 @@ const Navbar = () => {
                   >
                     ABOUT US
                   </NavLink>
-                  <div className="md:hidden flex">
+                  <div className="lg:hidden flex border-t border-b py-3 border-black w-full ">
                     <Menu
                       handleClick={handleClick}
                       onClick={() => setToggleNav(false)}
@@ -528,7 +528,7 @@ const Navbar = () => {
         <div className="flex flex-1 flex-row items-center justify-between bg-[#2D8B95] py-4  overflow-hidden">
           <div>
             <div className="flex flex-1 flex-row items-center gap-4">
-              <div className="md:flex hidden">
+              <div className="lg:flex hidden">
                 <Menu handleClick={handleClick} />
               </div>
 

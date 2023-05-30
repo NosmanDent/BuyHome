@@ -28,7 +28,7 @@ const CartPage = () => {
   const cartKids = useContext(CartContextKids);
 
   const checkout = async () => {
-    await fetch("https://buy-home.vercel.app/checkout", {
+    await fetch("http://localhost:5173/checkout", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
